@@ -6,9 +6,9 @@ This is a dummy app I created as part of an introductory lesson into React Routi
 ### Technologies
 * React, JavaScript
 * ReactRouter libraries 
-* _Switch, BrowserRouter, Route, NavLink and Link_ components
+* _Switch, Redirect, BrowserRouter, Route, NavLink and Link_ components
 * _useParams_ custom hook 
-* _path, exact, to_ built-in props
+* _path, exact, and to_ built-in props
 
 
 ### How to Run
