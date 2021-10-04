@@ -6,6 +6,8 @@ This is a dummy app I created as part of an introductory lesson into React Routi
 ### Technologies
 * React, JavaScript
 * ReactRouter libraries 
+* {BrowserRouter} and {Route} imports
+* React Router Links 
 
 ### How to Run
 This app is currently only ran locally. Just do the usual steps:
