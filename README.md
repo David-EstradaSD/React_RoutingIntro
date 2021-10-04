@@ -3,9 +3,7 @@
 ### Overview
 This is a dummy app I created as part of an introductory lesson into React Routing. Specifically, this lesson taught how to build a multi-page "_single page application_" as to adhere to the React design of staying on the same web page without having to leave the browser and send more Http requests.
 
-### Technologies (TODO: ... // 
-
-
+### Technologies
 * React, JavaScript
 * ReactRouter libraries 
 
