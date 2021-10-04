@@ -15,7 +15,7 @@ function App() {
         <Route path="/products">
           <Products />
         </Route>
-        <Route path="/product-details/:productId">
+        <Route path="/products/:productId">
           <ProductDetails />
         </Route>
       </main>
@@ -27,4 +27,4 @@ export default App;
 
 // our-domain.com/welcome --> Welcome.js component
 // our-domain.com/products --> Produts.js component
-// our-domain.com/product-details/ < ANYTHING > --> Dynamic Product Details 
+// our-domain.com/products/ ANYTHING  --> dynamic product details  
