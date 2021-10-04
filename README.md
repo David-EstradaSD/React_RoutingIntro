@@ -6,7 +6,7 @@ This is a dummy app I created as part of an introductory lesson into React Routi
 ### Technologies
 * React, JavaScript
 * ReactRouter libraries 
-* {BrowserRouter} and {Route} imports
+* { BrowserRouter, Route, useParams } imports
 * React Router Links 
 
 ### How to Run
